@@ -1,0 +1,1 @@
+<template name="1d8c09ac"><view class="_view 1d8c09ac content"><image class="_image 1d8c09ac logo" src="/static/logop.png"></image><view class="_view 1d8c09ac"><text class="_text 1d8c09ac title red" bindtap="handleProxy" data-eventid="{{'1d8c09ac-0'}}" data-comkey="{{$k}}">{{title}}</text></view></view></template>
